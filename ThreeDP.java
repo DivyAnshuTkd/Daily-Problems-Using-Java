@@ -78,7 +78,7 @@ class ThreeDP
     // Driver code
     public static void main(String[] args) 
     {
-        Solution sol = new Solution();
+        ThreeDP sol = new ThreeDP();
 
         int grid[][] = {
             {3, 1, 1},
